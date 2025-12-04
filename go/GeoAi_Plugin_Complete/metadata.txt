@@ -1,0 +1,17 @@
+[general]
+name=AI Unsupervised Classification
+qgisMinimumVersion=3.0
+description=Combines unsupervised satellite image classification with AI interpretation using LLMs
+version=1.0.0
+author=Jürgen Werner, ChatGPT 5.1 & CURSOR
+email=your.email@example.com
+
+[about]
+homepage=https://github.com/yourusername/ai-unsupervised-classification
+tracker=https://github.com/yourusername/ai-unsupervised-classification/issues
+repository=https://github.com/yourusername/ai-unsupervised-classification
+icon=icon.png
+
+[changelog]
+1.0.0=Initial release with OTB, SAGA, GRASS, and Python fallback classification, plus AI interpretation via Ollama, OpenAI, Claude, and Gemini
+
